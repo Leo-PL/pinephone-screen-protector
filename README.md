@@ -1,6 +1,6 @@
 # Pinephone screen protector
 
-A set of designs of screen protectors for the Pinephone.
+A set of designs of screen and camera protectors for the Pinephone.
 
 Some places do offer cutting out custom screen protectors for phones -
 you can use this design to cover whole flat area of the screen.
@@ -16,6 +16,14 @@ It comes in 3 varieties:
   which would otherwise be obstructed by the film, preventing their correct operation.
 - [Notch](screen_protector_notch.svg) - the same, but with one big, symmetrical cutout to accomodate the above,
   if you prefer more exposed area for aesthetic reasons.
+
+## Rear camera protector
+Principal dimensions are 20 by 8 mm, with fully rounded ends - radius is 4mm.
+
+[Design](camera_protector.svg)
+
+It is recommended to cut more than one protector at once, as they are tiny, and to avoid wasting material.
+When ordering screen protector made from translucent material, this can be cut from the same sheet.
 
 ## Redistribution
 
